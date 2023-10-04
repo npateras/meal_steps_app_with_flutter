@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" float="left">
-  <img align="top" src="https://i.ibb.co/YXtJNpB/Screenshot-20231004-115102.png" >
+  <img align="top" src="https://i.ibb.co/YXtJNpB/Screenshot-20231004-115102.png" width="30%" height="30%">
   <img align="top" src="https://i.ibb.co/Jkdxr35/Screenshot-20231004-115056.png" width="30%" height="30%">
   <img align="top" src="https://i.ibb.co/Jkdxr35/Screenshot-20231004-115056.png" width="30%" height="30%">
 </p>
