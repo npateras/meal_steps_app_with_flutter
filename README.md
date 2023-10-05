@@ -7,12 +7,12 @@
 </p>
 
 <p align="center" float="left">
-  <img align="top" src="https://i.ibb.co/YXtJNpB/Screenshot-20231004-115102.png" width="30%" height="30%">
-  <img align="top" src="https://i.ibb.co/Jkdxr35/Screenshot-20231004-115056.png" width="30%" height="30%">
-  <img align="top" src="https://i.ibb.co/Jkdxr35/Screenshot-20231004-115056.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/bNtW3VV/Screenshot-20231004-115049-min.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/T0FD287/Screenshot-20231004-115056-min.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/12ts3H2/Screenshot-20231004-115102-min.png" width="30%" height="30%">
 </p>
 
 <p align="center" float="left">
   <img align="top" src="https://i.ibb.co/D4SQy43/Screenshot-20231004-115004.png" width="30%" height="30%">
-  <img align="top" src="https://i.ibb.co/hCVx4TP/Screenshot-20231004-115115.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/b1ntR4C/Screenshot-20231004-115115-min.png" width="30%" height="30%">
 </p>
