@@ -2,8 +2,8 @@
 
 <p align="center" float="left">
   <img align="top" src="https://i.ibb.co/D4SQy43/Screenshot-20231004-115004.png" width="30%" height="30%">
-  <img align="top" src="https://i.ibb.co/C6qc0vR/Screenshot-20231004-115032.png" width="30%" height="30%">
   <img align="top" src="https://i.ibb.co/SQKYDS0/Screenshot-20231004-115018.png" width="30%" height="30%">
+  <img align="top" src="https://i.ibb.co/C6qc0vR/Screenshot-20231004-115032.png" width="30%" height="30%">
 </p>
 
 <p align="center" float="left">
